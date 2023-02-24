@@ -1,6 +1,6 @@
 > **--> Kotlin**
 
-My name is Anton (ingame btwonion/onion). 
+My name is Anton (ingame btwonion/onion)
 
 # What I do
 - Minecraft Modding with [**Fabric**](https://fabricmc.net)
