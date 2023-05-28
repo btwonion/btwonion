@@ -8,7 +8,6 @@ My name is Anton (btwonion/onion)
 - Discord Bots with [**Kord**](https://github.com/kordlib/kord)
 
 ## Goals
-- finish headquarters
 - learn Rust someday
 - learn kubernetes
 - create homepage
