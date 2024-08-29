@@ -1,17 +1,17 @@
-> **--> Kotlin**
+> Anton aka btwonion aka onion
 
-My name is Anton (btwonion/onion)
+Hi,
+I'm a German student in the 13th grade and will soon be graduating with my Abitur.
 
 ## What I do
 - Minecraft Modding with [**Fabric**](https://fabricmc.net)
-- Applications with [**Kotlin**](https://kotlinlang.org) and [Compose](https://github.com/JetBrains/compose-jb)
-- Discord Bots with [**Kord**](https://github.com/kordlib/kord)
+- Applications with [**Kotlin**](https://kotlinlang.org) and [Rust](https://rust-lang.org)
+- learning [**Typst**](https://typst.app)
 
 ## Goals
-- learn Rust someday
-- learn kubernetes
+- improve rust skills, especially Macros and derives
 - create homepage
 
-## Contact
-- via Discord: [**btwonion**](https://discord.com/users/645263163411005440)
+## Contact me
+- via Discord DM: [**btwonion**](https://discord.com/users/645263163411005440)
 - via my development discord: **https://nyon.dev/discord**
