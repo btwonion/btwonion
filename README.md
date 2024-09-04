@@ -1,7 +1,9 @@
 > Anton aka btwonion aka onion
 
-Hi,
-I'm a German student in the 13th grade and will soon be graduating with my Abitur.
+Hello, 
+I'm a German student in the 13th grade 
+and I'm about to graduate with my 
+Abitur.
 
 ## What I do
 - Minecraft Modding with [**Fabric**](https://fabricmc.net)
@@ -9,7 +11,7 @@ I'm a German student in the 13th grade and will soon be graduating with my Abitu
 - learning [**Typst**](https://typst.app)
 
 ## Goals
-- improve rust skills, especially Macros and derives
+- improve rust skills, especially macros and derives
 - create homepage
 
 ## Contact me
