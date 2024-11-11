@@ -1,4 +1,4 @@
-> Anton aka btwonion aka onion
+> Anton/btwonion/onion
 
 Hello, 
 I'm a German student in the 13th grade 
