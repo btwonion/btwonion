@@ -1,13 +1,26 @@
-> Anton/btwonion/onion
+# 👋 Hi, I'm Anton (btwonion)
 
-Hello, 
-I'm a German student that just started studying Business Informatics.
+Welcome to my GitHub profile!  
+I'm a German student currently studying Business Informatics, passionate about coding and creative problem-solving.
 
-## What I do
-- Minecraft Modding with [**Fabric**](https://fabricmc.net)
-- Applications with [**Kotlin**](https://kotlinlang.org) and [Rust](https://rust-lang.org)
-- improving my [**Typst**](https://typst.app) skills
+## 🚀 What I Do
 
-## Contact me
-- via Discord DM: [**btwonion**](https://discord.com/users/645263163411005440)
-- via my development discord: **https://nyon.dev/discord**
+- **Minecraft Modding** with [Fabric](https://fabricmc.net)
+- **Application Development** using [Kotlin](https://kotlinlang.org) and [Rust](https://rust-lang.org)
+- Improving my [Typst](https://typst.app) skills for documentation and typesetting
+
+## 📬 Contact Me
+
+- Discord DM: [btwonion](https://discord.com/users/645263163411005440)
+- Join my dev community: [nyon.dev/discord](https://nyon.dev/discord)
+
+## 🌱 Currently Learning
+
+- Advanced Rust and Kotlin techniques
+- Typst for scientific writing
+- Building communities around open-source projects
+
+---
+
+> Thanks for visiting!  
+> Feel free to check out my projects or say hi.
